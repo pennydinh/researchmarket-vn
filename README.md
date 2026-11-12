@@ -45,4 +45,8 @@ Muốn quét sâu Facebook, TikTok, Shopee, Google Maps thay vì chỉ search th
 
 Chi tiết toàn bộ quy trình nằm trong [SKILL.md](SKILL.md).
 
-Tác giả: [@pennydinh](https://github.com/pennydinh) · [@mp1391004](https://github.com/mp1391004)
+## Về tác giả
+
+Skill do **Penny (Phương)** làm. Cần research sâu hơn cho ngách của bạn, hoặc muốn thêm skill tương tự: ghé [pennydinh.click](https://pennydinh.click).
+
+GitHub: [@pennydinh](https://github.com/pennydinh) · [@mp1391004](https://github.com/mp1391004)
