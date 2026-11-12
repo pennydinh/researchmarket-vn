@@ -44,3 +44,5 @@ Một bản research một trang, gồm:
 Muốn quét sâu Facebook, TikTok, Shopee, Google Maps thay vì chỉ search thường: dùng [Apify](https://apify.com/?fpr=get-api), có gói miễn phí để thử.
 
 Chi tiết toàn bộ quy trình nằm trong [SKILL.md](SKILL.md).
+
+Tác giả: [@pennydinh](https://github.com/pennydinh) · [@mp1391004](https://github.com/mp1391004)
